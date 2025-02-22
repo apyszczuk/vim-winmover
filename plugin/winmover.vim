@@ -1,3 +1,9 @@
+" vim-winmover - Move windows easily
+"
+" Author:     Artur Pyszczuk <apyszczuk@gmail.com>
+" License:    Same terms as Vim itself
+" Website:    https://github.com/apyszczuk/vim-winmover
+
 if exists ('g:loaded_winmover')
     finish
 endif
